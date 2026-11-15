@@ -2,7 +2,7 @@
 
 - **Track:** Health (AI + Health)
 - **Competition:** Veritas AI International High School Hackathon
-- **Author/Team:** Sama Moataz Fayez Ahmed Ali (and team)
+- **Author/Team:** Sama Moataz Fayez Ahmed Ali
 - **Kaggle Notebook & Artifacts:** [https://www.kaggle.com/code/samamoatazt/echoassist](https://www.kaggle.com/code/samamoatazt/echoassist)
 
 ---
