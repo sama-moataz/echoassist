@@ -11,7 +11,9 @@
 
 Heart failure affects more than 64 million individuals worldwide, with Left Ventricular Ejection Fraction (LVEF) serving as the single most critical diagnostic biomarker for guiding therapy, pharmacological titration, and surgical interventions (such as implantable cardioverter-defibrillator placement). In clinical cardiology, sonographers and cardiologists evaluate hundreds of apical 4-chamber (A4C) echocardiographic video clips daily. Calculating LVEF traditionally relies on manual tracing of the left ventricular endocardial border across two cardinal phases of the cardiac cycle—End-Diastole (ED) and End-Systole (ES)—using Simpson's biplane method of disks:
 
-$$\text{LVEF } (\%) = \frac{\text{EDV} - \text{ESV}}{\text{EDV}} \times 100$$
+$$
+\text{LVEF (\%)} = \frac{\text{EDV} - \text{ESV}}{\text{EDV}} \times 100
+$$
 
 This manual workflow introduces three fundamental bottlenecks:
 1. **High Inter- and Intra-Observer Variability:** Clinical literature documents inter-observer variability between 7% and 12%, frequently leading to diagnostic misstratification near critical clinical cutoff boundaries (e.g., 40% for HFrEF vs. HFmrEF, 50% for HFpEF).
